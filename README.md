@@ -41,6 +41,8 @@ High-level summary of business performance.
 - Revenue by Product Name (bar chart)
 - Slicers: Country, Year, Brand, Category
 
+![Executive Overview](executive-overview.png)
+
 ### 2. Sales Performance
 Deep dive into revenue trends over time.
 - Revenue by Year Quarter (line chart)
@@ -48,6 +50,8 @@ Deep dive into revenue trends over time.
 - Revenue & YoY Growth % by Year (combo chart)
 - Revenue by Year with range slicer
 - Slicers: Year range, Category, Country
+
+![Sales Peformance](sales_peformance.png)
 
 ### 3. Product Portfolio Analysis
 Product and brand-level performance analysis.
@@ -58,6 +62,8 @@ Product and brand-level performance analysis.
 - Top 50 Products by Revenue — scatter plot
   (colored by Category, X axis: Units Sold)
 - Slicers: Year range, Category, Brand, Country
+
+![Product Portfolio Analysis](product_portfolio_analysis.png)
 
 ### 4. Customer & Market Intelligence
 Customer segmentation and geographic analysis.
@@ -70,6 +76,9 @@ Customer segmentation and geographic analysis.
 - Revenue Split by Gender (donut chart)
 - Slicers: Year range, Country, Customer Segment
 
+![Customer Market Intelligence](customer_market_intelligence.png)
+
+
 ### 5. AI Forecasting & Anomaly Detection
 Forward-looking analysis using Power BI AI visuals.
 - Revenue Trend with Anomaly Detection & Forecast
@@ -79,6 +88,7 @@ Forward-looking analysis using Power BI AI visuals.
 - AI-Generated Insights (Smart Narrative)
 - Slicers: Year range, Category, Growth Assumption
 
+![Ai Forecasting Anomaly Detection](ai_forecasting_anomaly_detection.png)
 ---
 
 ## 🗂️ Data Model
